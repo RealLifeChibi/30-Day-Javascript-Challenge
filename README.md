@@ -10,3 +10,12 @@
     <li>Learned how to return a response and how to get the json data using response.json()</li>
     <li>Learned how to create a eventlistener to run a function to gather the data based on the input provided</li>   
     </ul>
+<h2>Day 2 To Do App</h2>
+  <h3>What did I learn:</h3>
+  <ul>
+    <li>How to store data locally to be retrived</li>
+    <li>How to append html elements to html through javascript</li>
+    <li>How to remove html elements through javascript</li>
+    <li>Create a javascript file and link it to the html page</li>
+    <li>How to onclick call a function that is in javascript</li>
+  </ul>
