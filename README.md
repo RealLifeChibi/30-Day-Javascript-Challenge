@@ -19,3 +19,5 @@
     <li>Create a javascript file and link it to the html page</li>
     <li>How to onclick call a function that is in javascript</li>
   </ul>
+
+[TODO: Add day 3]
