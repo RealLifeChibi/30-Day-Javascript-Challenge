@@ -21,3 +21,11 @@
   </ul>
 
 [TODO: Add day 3]
+
+<h2>Day 4 Password Generator</h2>
+  <h3?What did I learn</h3>
+  <ul>
+    <li>Used Math.floor and Math.Random for the first time</li>
+    <li>Change the value of text box based on results of a function</li>
+    <li>How to use document.execommand("copy") to copy said value from the text box from a click of a button </li>
+  </ul>
