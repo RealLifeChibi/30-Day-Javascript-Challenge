@@ -29,3 +29,11 @@
     <li>Change the value of text box based on results of a function</li>
     <li>How to use document.execommand("copy") to copy said value from the text box from a click of a button </li>
   </ul>
+
+  <h2>Day 5 Notes App</h2>
+  <h3?What did I learn</h3>
+  <ul>
+    <li>Learned about keyboard events in event listener</li>
+    <li>Used querySelectorAll for the first time gets all elements in where you query(like a div for example)</li>
+    <li>Used localstoarge again to save the notes so they can be saved if you refresh your broswer or add/remove notes</li>
+  </ul>
