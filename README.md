@@ -37,3 +37,6 @@
     <li>Used querySelectorAll for the first time gets all elements in where you query(like a div for example)</li>
     <li>Used localstoarge again to save the notes so they can be saved if you refresh your broswer or add/remove notes</li>
   </ul>
+
+<h2?Day 6</h2?
+Things came up wasnt able to do anything today
