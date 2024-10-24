@@ -39,4 +39,14 @@
   </ul>
 
 <h2>Day 6</h2>
-Things came up wasnt able to do anything today
+[Things came up wasnt able to do anything on the actual day 6]
+[TODO add real Day 6 project here]
+
+<h2>Day 7 QR Code Generator</h2>
+  <h3?What did I learn</h3>
+  <ul>
+    <li>First time doing basic animation in CSS</li>
+    <li>Used setTimeuout for the first time to make it remove a class that we used for animation</li>
+    <li>Used transition using max-height from 0 to 300px so the image pops up over 1 seccond </li>
+  </ul>
+
