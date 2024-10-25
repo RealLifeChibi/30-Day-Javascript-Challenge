@@ -50,3 +50,12 @@
     <li>Used transition using max-height from 0 to 300px so the image pops up over 1 seccond </li>
   </ul>
 
+  <h2>Day 8 Toast Notification</h2>
+  <h3?What did I learn</h3>
+  <ul>
+    <li>Used more animations using CSS</li>
+    <li>Used font awswesome for the first time for icons</li>
+    <li>used .includes for the time to change the msg that was being shown </li>
+  </ul>
+
+
